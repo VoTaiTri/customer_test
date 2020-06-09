@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "customer_test/cli"
+CustomerTest::CLI.start
