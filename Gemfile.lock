@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    customer_test (0.1.0)
+    customer_test (0.1.1)
       thor (~> 1.0)
 
 GEM
